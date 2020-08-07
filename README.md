@@ -1,9 +1,9 @@
-# tomanocupacero™️
+# microbiodocaralho
 <div style="text-align: center">
-    <img src="./tomanocupacero.jpeg" height="300"/>
+    <img src="./microbiodocaralho.jpeg" height="300"/>
 </div>
 
-> Tmnc pacero to chei de ódio [video](https://twitter.com/mcpozedorodo/status/1194809058194264064?lang=en)
+> Bacteria filha da puta microbio do caralho
 
 ## Compatibilidade
 
@@ -14,15 +14,15 @@
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
 Rode o comando:
 
-    npx tomanocupacero
+    npx microbiodocaralho
 
 
 ## Rodando via CLI
 Instale globalment e rode o comando:
 
-    npm install -g tomanocupacero
+    npm install -g microbiodocaralho
 
-    tomanocupacero
+    microbiodocaralho
 
 
 ## Veja também
@@ -31,3 +31,4 @@ Instale globalment e rode o comando:
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)
  - [Omaewa](https://github.com/BrOrlandi/omaewa/)
+ - [TomaNoCuParcero](https://github.com/imdanielpiva/tomanocupacero)

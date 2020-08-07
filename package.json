@@ -1,28 +1,30 @@
 {
-  "name": "tomanocupacero",
+  "name": "microbiodocaralho",
   "version": "0.0.4",
-  "description": "Toma no cu pacero eu to chei de odio",
+  "description": "Bacteria filha da puta microbio do caralho",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
+    "url": "git+ssh://git@github.com/Aureom/microbiodocaralho.git"
   },
   "keywords": [
     "mc",
-    "poze"
+    "rayban",
+    "bacteria",
+    "microbio"
   ],
-  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "author": "Kaio Souza <kaioaugusto02@gmail.com>",
   "license": "MIT",
   "bin": {
-    "tomanocupacero": "./src/cli.js"
+    "microbiodocaralho": "src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
+    "url": "https://github.com/Aureom/microbiodocaralho/issues"
   },
-  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
+  "homepage": "https://github.com/Aureom/microbiodocaralho#readme",
   "dependencies": {
     "meow": "^7.0.1"
   }
