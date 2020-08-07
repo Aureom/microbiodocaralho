@@ -1,6 +1,6 @@
 # microbiodocaralho
 <div style="text-align: center">
-    <img src="./microbiodocaralho.jpeg" height="300"/>
+    <img src="./microbiodocaralho.png" height="300"/>
 </div>
 
 > Bacteria filha da puta microbio do caralho
